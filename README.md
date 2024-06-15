@@ -4,32 +4,7 @@
 
 ## 书籍简介
 
-[《Python编程从入门到实践（第3版）》](https://github.com/square1979/Some_Books/blob/main/Python)分为两部分：
-
-### 第一部分：Python编程基础
-
-在这一部分中，你将学习到以下内容：
-
-- Python编程的基本概念
-- 强大的Python库和工具
-- 列表和字典
-- if语句
-- 类
-- 文件和异常
-- 代码测试
-
-### 第二部分：项目实战
-
-在这一部分中，你将学习如何开发三个项目：
-
-1. **简单的2D游戏**：使用Pygame库开发一个简单的2D游戏。
-2. **数据可视化**：利用Matplotlib和Plotly生成交互式的信息图。
-3. **Web应用**：创建和定制一个简单的Web应用。
-
-第3版的修订内容包括：
-- 使用了文本编辑器VS Code，但我用PyCharm编辑代码
-- 新增了`removeprefix()`方法和`removesuffix()`方法的介绍
-- 在项目中利用了Matplotlib和Plotly的最新特性
+[《Python编程从入门到实践（第3版）》](https://github.com/square1979/Some_Books/blob/main/Python)
 
 ## 如何使用本仓库
 
